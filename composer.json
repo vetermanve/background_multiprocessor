@@ -15,8 +15,6 @@
     "php": ">=5.2"
   },
   "autoload": {
-    "autoload": {
       "psr-0": { "Vetermanve\\": "src/" }
-    }
   }
 }
