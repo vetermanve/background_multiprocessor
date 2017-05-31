@@ -1,6 +1,6 @@
 {
   "name": "vetermanve/background_multiprocessor",
-  "version" : "0.9",
+  "version" : "0.9.1",
   "type": "library",
   "description": "Simple library process multi background tasks",
   "keywords": ["multitask", "threads","background"],
