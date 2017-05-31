@@ -1,0 +1,22 @@
+{
+  "name": "vetermanve/background_multiprocessor",
+  "version" : "0.9",
+  "type": "library",
+  "description": "Simple library process multi background tasks",
+  "keywords": ["multitask", "threads","background"],
+  "license": "GPL",
+  "authors": [
+    {
+      "name": "Mikhail Denisov",
+      "email": "manwebdev@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.2"
+  },
+  "autoload": {
+    "autoload": {
+      "psr-0": { "Vetermanve\\": "src/" }
+    }
+  }
+}
